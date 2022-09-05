@@ -8,7 +8,7 @@
     box-sizing: border-box;
 }
 footer{
-    background-color: #415aca;
+    background-color: #009e22;
     padding: 50px;
 
 }
@@ -57,12 +57,12 @@ footer{
     padding: 10px;
     font-size: 15px;
     outline: none;
-    border: 1px solid white;
+    border: 1px solid rgb(12, 12, 12);
     color: white;
-    background-color: #415aca;
+    background-color: #fcfdfd;
 }
 .footer-col .form-sub input::placeholder{
-    color:white;
+    color:rgb(15, 15, 15);
 }
 .footer-col .form-sub button{
     width: 100%;
@@ -72,10 +72,10 @@ footer{
     outline: none;
     border: none;
     cursor: pointer;
-    color: #415aca;
+    color: #f2f3f7;
     border-radius: 3px;
     font-weight: bold;
-    background-color: white;
+    background-color: rgb(74, 155, 247);
 }
 /*responsivo*/
 @media (max-width:800px) {  
@@ -107,8 +107,9 @@ img-bx img{
     outline: none;
     border: none;
     cursor: pointer;
-    color: #415aca;
+    color: #a5fcac;
     border-radius: 3px;
     font-weight: bold;
     background-color: white;
 }
+
